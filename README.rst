@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgtauzin%2Fgiotto-learn-1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgtauzin%2Fgiotto-learn-1?ref=badge_shield)
+
 .. image:: https://www.giotto.ai/static/vector/logo.svg
    :width: 850
 
@@ -126,3 +128,7 @@ Contacts:
 ---------
 
 maintainers@giotto.ai
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgtauzin%2Fgiotto-learn-1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgtauzin%2Fgiotto-learn-1?ref=badge_large)
